@@ -16,7 +16,7 @@ if cat /etc/centos-release > /dev/null 2>&1; then
 fi
 
 
-#Chek if clamav exists and installation  YUM ONLY CENTOS, ///APT MISSING///
+#Chek if clamav exists and installation
 
 if [ $x -eq 1 ]; then
 
