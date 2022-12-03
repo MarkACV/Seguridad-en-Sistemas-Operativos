@@ -2,11 +2,11 @@
 
 Run as Root
 
-##Supports:
+## Supports:
 - CentOS
 - Ubuntu
 
-##Functionalities:
+## Functionalities:
 - Identify OS
 - Install fresh version of clamav antivirus (uninstalls it and rainstalls it if it already is installed)
 - Install EPEL repositories if the OS is CentOS
